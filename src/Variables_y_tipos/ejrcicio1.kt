@@ -5,5 +5,5 @@ fun main(){
     val num2 = readLine()!!.toDouble()
 
     val suma = num1 + num2
-    println("La suma es: $suma")
+    println("La suma es : $suma")
 }
