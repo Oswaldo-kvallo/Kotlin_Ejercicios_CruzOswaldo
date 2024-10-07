@@ -5,5 +5,5 @@ fun main() {
     val b = readLine()!!
     
 
-    println("Después del intercambio: a = $a, b = $b")
+    println("Después del intercambio: a = $b, b = $a")
 }
